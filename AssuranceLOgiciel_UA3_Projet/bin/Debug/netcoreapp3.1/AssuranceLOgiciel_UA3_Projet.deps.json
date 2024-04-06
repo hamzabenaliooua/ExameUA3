@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AssuranceLOgiciel_UA3_Projet/1.0.0": {
+        "runtime": {
+          "AssuranceLOgiciel_UA3_Projet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssuranceLOgiciel_UA3_Projet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

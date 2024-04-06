@@ -1,0 +1,11 @@
+Relevé de Notes
+Numéro d'inscription: 123
+Nom: Benalioua
+Prénom: Hamza
+Adresse: 134 jeteg 
+
+Matière		Coefficient	Note
+math	1	18
+
+Moyenne Générale: 18.00
+Mention: Insuffisant
